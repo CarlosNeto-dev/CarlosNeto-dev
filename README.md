@@ -1,13 +1,69 @@
-### Olá! Eu sou Carlos Neto 🌟
+<div align="center">
+  <img height="150" src="https://i.gifer.com/5TMy.gif"  />
+</div>
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/carlos_alberto_profissional)[![Facebook Badge](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge)](https://www.facebook.com/profile.php?id=61579371309089)
+###
 
-![Carlos Neto GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosNeto-dev&show_icons=true&theme=dracula)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 
-## Tecnologia que eu uso no meu dia a dia:
+###
 
-<div style="diplay: inline_block"><br/>
-  <img align="center" <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge" />
-</div><br/>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CarlosNeto-dev.CarlosNeto-dev&right_color=darkviolet"  />
+</div>
 
-💻 Apaixonado por Python e Inteligência Artificial. Estou estudando Ciências da Computação na Uniesp-PB. 💻
+###
+
+<h1 align="center">Hey There 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Hello, my name is Carlos, I am 18 years old, and I am a complete enthusiast in AI and ML. I want to be the best in this field!<br><br> 🔭 I'm working as ...<br>- A novice programmer with a foundational knowledge of Basic Python and programming logic.<br>- Actively seeking entry-level opportunities or projects that involve data manipulation.<br><br>📚 I'm currently learning ...<br>- The foundational pillars of Data Science: Pandas (for data manipulation) and Numpy (for numerical computing) in Python.<br>- Data Visualization using libraries like Matplotlib or Seaborn.<br>- The first steps in ML: Linear Regression algorithms and statistical fundamentals.<br><br>⚡In my free time I ...<br>- Take introductory Data Science courses on platforms like Coursera.<br>- Solve basic programming challenges to strengthen my logic skills.<br>- Document my progress and learning journey by updating my repository: data_science_python_journey.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosNeto-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosNeto-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=CarlosNeto-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
