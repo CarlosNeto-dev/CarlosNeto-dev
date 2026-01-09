@@ -1,71 +1,32 @@
-<div align="center">
-  <img height="150" src="https://i.gifer.com/5TMy.gif"  />
-</div>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Carlos Alberto da Silva Neto
+=====================================================================================================================================================
 
-###
+Enthusiastic Student about AI
+-----------------------------
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/carlos-neto-54b62339b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61579371309089" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/carlos_alberto_profissional/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+I've been in the programming world since last year. I started programming with Python (my favorite language) and today I'm trying to become one of the best programmers in the field of Data (AI and ML).
 
-###
+* 🌍  I'm based in João Pessoa, Paraíba
+* 🖥️  See my portfolio at [Likedin](https://www.linkedin.com/in/carlos-neto-54b62339b/)
+* ✉️  You can contact me at [carlos@profissionalwork@gmail.com](mailto:carlos@profissionalwork@gmail.com)
+* 🚀  I'm currently working on [Updating my Data Science Repository...](https://github.com/CarlosNeto-dev/Data_Science_Python_Journey)
+* 🧠  I'm currently learning Data Science, Flask and JavaScript
+* 👥  I'm looking to collaborate on Projects about Data Science and Machine Learning
+* 💬  Ask me about I'm not a genius, but with effort, dedication, and discipline, I can become one.
 
-<div align="center">
-  <img src="https://count.getloli.com/@:CarlosNeto-dev?theme=booru-vp&padding=3&offset=-14&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a>
+</p>
 
-###
+### Socials
 
-<h1 align="center">Hey There 👋</h1>
+<p align="left"> <a href="https://www.github.com/CarlosNeto-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/carlos-neto-54b62339b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.facebook.com/profile.php?id=61579371309089" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+<a href="https://www.github.com/CarlosNeto-dev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/CarlosNeto-dev?logo=github&style=for-the-badge&color=000000&labelColor=27272a" /></a>
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<b>My GitHub Stats</b>
 
-###
+<a href="http://www.github.com/CarlosNeto-dev"><img src="https://github-readme-stats.vercel.app/api?username=CarlosNeto-dev&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=000000&bg_color=27272a&hide_border=true&show_icons=true" alt="CarlosNeto-dev's GitHub stats" /></a>
 
-<p align="left">Hello, my name is Carlos, I am 18 years old, and I am a complete enthusiast in AI and ML. I want to be the best in this field!<br><br> 🔭 I'm working as ...<br>- A novice programmer with a foundational knowledge of Basic Python and programming logic.<br>- Actively seeking entry-level opportunities or projects that involve data manipulation.<br><br>📚 I'm currently learning ...<br>- The foundational pillars of Data Science: Pandas (for data manipulation) and Numpy (for numerical computing) in Python.<br>- Data Visualization using libraries like Matplotlib or Seaborn.<br>- The first steps in ML: Linear Regression algorithms and statistical fundamentals.<br><br>⚡In my free time I ...<br>- Take introductory Data Science courses on platforms like Coursera.<br>- Solve basic programming challenges to strengthen my logic skills.<br>- Document my progress and learning journey by updating my repository: Data_Science_Python_Journey.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CarlosNeto-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<a href="https://github.com/CarlosNeto-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNeto-dev&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=000000&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
