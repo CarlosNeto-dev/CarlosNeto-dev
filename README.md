@@ -14,7 +14,7 @@ I've been in the programming world since last year. I started programming with P
 
 * 🌍  I'm based in **João Pessoa, Paraíba**
 * 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/carlos-neto-54b62339b/)
-* ✉️  You can contact me at [carlos.profissionalwork@gmail.com](mailto:carlos.profissionalwork@gmail.com)
+* ✉️  You can contact me at [carlos.profissionalwork@gmail.com](mailto:carlosprofissionalwork@gmail.com)
 * 🚀  I'm currently working on [Updating my Data Science Repository...](https://github.com/CarlosNeto-dev/Data_Science_Python_Journey)
 * 🧠  I'm currently learning **Data Science, Flask and JavaScript**
 * 👥  I'm looking to collaborate on Projects about **Data Science and Machine Learning**
