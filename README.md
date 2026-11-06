@@ -34,17 +34,18 @@ I build **RAG (Retrieval-Augmented Generation)** systems, **AI agents** and **LL
 
 <div align="center">
 
-<img src="./assets/skills.svg" alt="Python, Flask, Java, JavaScript, HTML, CSS, Sass, React, Next.js, Three.js, PostgreSQL, Docker, AWS, Terraform, Git, GitHub" />
+<img src="./assets/skills.svg" alt="Python, Flask, Java, JavaScript, TypeScript, HTML, CSS, Sass, React, Next.js, Vite, Three.js, PostgreSQL, Docker, AWS, Terraform, GitHub Actions, Git, GitHub" />
 
 </div>
 
 - **AI and LLM:** RAG (Retrieval-Augmented Generation), AI Agents, Embeddings, Semantic Search, Guardrails, Amazon Bedrock, Claude Sonnet, Cohere Embed v4, bge-m3, OpenSearch.
-- **Front-end:** React, Next.js, JavaScript, HTML5, CSS3, SCSS (Sass).
-- **3D and motion:** Three.js, React Three Fiber (R3F), GSAP, glTF / GLB, Substance 3D Painter.
+- **Front-end:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, SCSS (Sass), Vite, responsive design.
+- **3D and motion:** Three.js, WebGL, React Three Fiber (R3F), GSAP, glTF / GLB, Substance 3D Painter.
 - **Back-end:** Python, Flask, Java, REST APIs.
 - **Data:** PostgreSQL, SQL, OpenSearch (vector search).
-- **Cloud and DevOps:** AWS, Docker, Docker Compose, Terraform, boto3, Git, GitHub, Render.
-- **Ways of working:** Scrum, Agile, sprint leadership, technical documentation.
+- **Cloud and DevOps:** AWS, Docker, Docker Compose, Dev Containers, Terraform, boto3, GitHub Actions (CI/CD), GitHub Pages, Render, Git, GitHub.
+- **Testing:** Vitest.
+- **Ways of working:** Scrum, Agile, Gitflow, code review (CODEOWNERS), sprint leadership, technical documentation.
 
 ---
 
@@ -88,12 +89,33 @@ I build **RAG (Retrieval-Augmented Generation)** systems, **AI agents** and **LL
 - **Stack:** Python, Docker, bge-m3, RAG.
 - **Repository:** [github.com/BrayanVanz/clinic-rag](https://github.com/BrayanVanz/clinic-rag)
 
+### Aegir Hotel (in progress, main focus)
+
+- **What it does:** 3D hotel experience for a university team project at UNIESP: a scroll-animated website with GSAP, with an interactive 3D floor plan planned in React Three Fiber.
+- **Current state:** project foundation ready (scaffold), with the 3D scenes, Blender assets and data pipeline planned next.
+- **Stack:** React 19, TypeScript, SCSS, GSAP, Vite, Vitest, Docker, Dev Containers, GitHub Actions, Gitflow.
+- **Repository:** [github.com/CarlosNeto-dev/aegir-hotel](https://github.com/CarlosNeto-dev/aegir-hotel)
+
 ### Java Mentoring
 
 - **What it does:** bilingual Java study website for university students.
 - **Stack:** Flask, HTML, CSS, JavaScript, Docker Compose, Render.
 - **Repository:** [github.com/CarlosNeto-dev/java-mentoring](https://github.com/CarlosNeto-dev/java-mentoring)
 - **Live site:** [java-mentoring.onrender.com](https://java-mentoring.onrender.com/)
+
+### Sun and Earth
+
+- **What it does:** interactive 3D scene of the Sun and the Earth, with a responsive camera that adapts to the screen size.
+- **Stack:** Three.js, WebGL, JavaScript (ES Modules, Import Maps), HTML, CSS.
+- **Repository:** [github.com/CarlosNeto-dev/sun-and-earth](https://github.com/CarlosNeto-dev/sun-and-earth)
+- **Live site:** [carlosneto-dev.github.io/sun-and-earth](https://carlosneto-dev.github.io/sun-and-earth/)
+
+### JavaScript Playground
+
+- **What it does:** my first web project: an interactive playground to test JavaScript code and see the results in the browser, with animated examples.
+- **Stack:** HTML, CSS, JavaScript, responsive design with media queries and clamp().
+- **Repository:** [github.com/CarlosNeto-dev/javascript-playground](https://github.com/CarlosNeto-dev/javascript-playground)
+- **Live site:** [carlosneto-dev.github.io/javascript-playground](https://carlosneto-dev.github.io/javascript-playground/)
 
 ### Dark Great Sword (in progress)
 
@@ -113,9 +135,15 @@ I build **RAG (Retrieval-Augmented Generation)** systems, **AI agents** and **LL
 
 ## `06` Right now
 
+- I'm finishing **Aegir Hotel**, my main university project, with **React**, **TypeScript** and **GSAP**.
 - I'm building my **3D portfolio** with **React Three Fiber** and **GSAP**.
 - I'm improving the **Dark Great Sword** model for the web.
 - I'm studying **AI agents** and the **Model Context Protocol (MCP)**.
+
+**Next up:**
+
+- **Anchor Desk:** yacht website redesign with a contact form and an admin panel, built with TypeScript, SCSS, Docker and GitHub Actions. [Repository](https://github.com/CarlosNeto-dev/anchor-desk)
+- **Nox Sword Retrieval:** web platform that combines a RAG (Retrieval-Augmented Generation) system with an immersive 3D WebGL experience. [Repository](https://github.com/CarlosNeto-dev/nox-sword-retrieval-website)
 
 ---
 
@@ -123,7 +151,7 @@ I build **RAG (Retrieval-Augmented Generation)** systems, **AI agents** and **LL
 
 - **Name:** Carlos Alberto da Silva Neto (Carlos Neto).
 - **Roles:** Full-Stack Developer, AI Engineer, 3D Web Developer.
-- **Core skills:** Python, React, Next.js, RAG, AI Agents, Amazon Bedrock, Docker, Three.js.
+- **Core skills:** Python, React, Next.js, TypeScript, RAG, AI Agents, Amazon Bedrock, Docker, Three.js, GSAP.
 - **Experience:** 6 months in AI engineering at Compass UOL (AI/R Fellowship) and 5 months as Java Teaching Assistant at UNIESP.
 - **Education:** Bachelor's degree in Computer Science at UNIESP, expected 2029.
 - **Languages:** Portuguese (native), English (basic to intermediate, reads technical documentation).
