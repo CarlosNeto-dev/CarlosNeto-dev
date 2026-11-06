@@ -34,17 +34,16 @@ I build **RAG (Retrieval-Augmented Generation)** systems, **AI agents** and **LL
 
 <div align="center">
 
-<img src="./assets/skills.svg" alt="Python, Flask, Java, JavaScript, TypeScript, HTML, CSS, Sass, React, Next.js, Vite, Three.js, PostgreSQL, Docker, AWS, Terraform, GitHub Actions, Git, GitHub" />
+<img src="./assets/skills.svg" alt="Python, Flask, Java, JavaScript, TypeScript, HTML, CSS, Sass, React, Next.js, Three.js, PostgreSQL, Docker, AWS, Terraform, GitHub Actions, Git, GitHub" />
 
 </div>
 
 - **AI and LLM:** RAG (Retrieval-Augmented Generation), AI Agents, Embeddings, Semantic Search, Guardrails, Amazon Bedrock, Claude Sonnet, Cohere Embed v4, bge-m3, OpenSearch.
-- **Front-end:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, SCSS (Sass), Vite, responsive design.
+- **Front-end:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, SCSS (Sass), responsive design.
 - **3D and motion:** Three.js, WebGL, React Three Fiber (R3F), GSAP, glTF / GLB, Substance 3D Painter.
 - **Back-end:** Python, Flask, Java, REST APIs.
 - **Data:** PostgreSQL, SQL, OpenSearch (vector search).
 - **Cloud and DevOps:** AWS, Docker, Docker Compose, Dev Containers, Terraform, boto3, GitHub Actions (CI/CD), GitHub Pages, Render, Git, GitHub.
-- **Testing:** Vitest.
 - **Ways of working:** Scrum, Agile, Gitflow, code review (CODEOWNERS), sprint leadership, technical documentation.
 
 ---
@@ -91,10 +90,11 @@ I build **RAG (Retrieval-Augmented Generation)** systems, **AI agents** and **LL
 
 ### Aegir Hotel (in progress, main focus)
 
-- **What it does:** 3D hotel experience for a university team project at UNIESP: a scroll-animated website with GSAP, with an interactive 3D floor plan planned in React Three Fiber.
-- **Current state:** project foundation ready (scaffold), with the 3D scenes, Blender assets and data pipeline planned next.
-- **Stack:** React 19, TypeScript, SCSS, GSAP, Vite, Vitest, Docker, Dev Containers, GitHub Actions, Gitflow.
+- **What it does:** 3D hotel website for a university team project at UNIESP: Aegir, a fictional beachfront hotel shaped like a U open to the sea, where every photo opens the place in 3D.
+- **Current state:** interactive prototype ready (scroll-animated landing page, 3D viewer with 14 Three.js scenes, day and sunset lighting, booking flow, dark theme and mobile menu). Production version in Next.js in progress.
+- **Stack:** Next.js, React, TypeScript, SCSS, GSAP, Three.js, Docker, GitHub Actions, Gitflow.
 - **Repository:** [github.com/CarlosNeto-dev/aegir-hotel](https://github.com/CarlosNeto-dev/aegir-hotel)
+- **Live prototype:** [claude.ai/artifact/ExkmZoV4JgsG6WztkNgNVN](https://claude.ai/artifact/ExkmZoV4JgsG6WztkNgNVN)
 
 ### Java Mentoring
 
@@ -135,7 +135,7 @@ I build **RAG (Retrieval-Augmented Generation)** systems, **AI agents** and **LL
 
 ## `06` Right now
 
-- I'm finishing **Aegir Hotel**, my main university project, with **React**, **TypeScript** and **GSAP**.
+- I'm finishing **Aegir Hotel**, my main university project, with **Next.js**, **React**, **TypeScript** and **GSAP**.
 - I'm building my **3D portfolio** with **React Three Fiber** and **GSAP**.
 - I'm improving the **Dark Great Sword** model for the web.
 - I'm studying **AI agents** and the **Model Context Protocol (MCP)**.
@@ -143,7 +143,7 @@ I build **RAG (Retrieval-Augmented Generation)** systems, **AI agents** and **LL
 **Next up:**
 
 - **Anchor Desk:** yacht website redesign with a contact form and an admin panel, built with TypeScript, SCSS, Docker and GitHub Actions. [Repository](https://github.com/CarlosNeto-dev/anchor-desk)
-- **Nox Sword Retrieval:** web platform that combines a RAG (Retrieval-Augmented Generation) system with an immersive 3D WebGL experience. [Repository](https://github.com/CarlosNeto-dev/nox-sword-retrieval-website)
+- **Nox Sword Retrieval:** web platform that combines a RAG (Retrieval-Augmented Generation) system with an immersive 3D WebGL experience. Repository coming soon.
 
 ---
 
